@@ -6,7 +6,7 @@ Personal data analyst portfolio website built with HTML and CSS, hosted on GitHu
 **[oluwadamilare-sulemana.github.io](https://oluwadamilare-sulemana.github.io)**
 
 ## 👤 About
-Self-taught Data Analyst based in Lagos, Nigeria. This portfolio showcases end-to-end data projects covering SQL, Power BI, Excel, and DAX across healthcare and retail industries.
+Data Analyst based in Lagos, Nigeria. This portfolio showcases end-to-end data projects covering SQL, Power BI, Excel, and DAX across healthcare and retail industries.
 
 ## 📁 Projects Featured
 - 🏥 **Hospital Performance Analysis** — Power BI · Power Query · DAX · Excel
